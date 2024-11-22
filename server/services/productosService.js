@@ -46,7 +46,7 @@ const productsDB =  [
     name: 'Caja de carton tipo baulera',  
     oldPrice: 4500, 
     price: 3700, 
-    urlImg: 'https://www.flexipack.com.ar/Image/0/600_750-cajas-bauleras-negras.jpg' 
+    urlImg: 'https://http2.mlstatic.com/D_NQ_NP_782473-MLU71982595103_092023-O.webp' 
   },
   { 
     id: 8, 
@@ -75,13 +75,6 @@ const productsDB =  [
     oldPrice: 8700, 
     price: 6115, 
     urlImg: 'https://http2.mlstatic.com/D_NQ_NP_720199-MLU72542014154_112023-O.webp'
-  },
-  { 
-    id: 12, 
-    name: 'Resaltadores',
-    oldPrice: 3000, 
-    price: 2500, 
-    urlImg: 'https://http2.mlstatic.com/D_NQ_NP_2X_616509-MLA54956912612_042023-F.webp'
   },
 ];
 const remarcarPrecios = (porcentaje) => {
